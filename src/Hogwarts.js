@@ -9,7 +9,7 @@ console.log(GryffFunctions.colors);
 GryffFunctions.gryffMascot();
 // => 'The Lion'
 
-// GryffFunctions.values();
+GryffFunctions.values();
 // => Attempted import error
 
 export default function Hogwarts() {
